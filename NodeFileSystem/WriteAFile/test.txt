@@ -1,1 +1,0 @@
-This file is created using writeFile method present in 'fs' module of NodeJS.
