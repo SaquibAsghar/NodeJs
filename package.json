@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/SaquibAsghar/NodeJs#readme",
   "dependencies": {
-    "chalk": "^4.1.1"
+    "chalk": "^4.1.1",
+    "inquirer": "^8.1.1"
   }
 }
