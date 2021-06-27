@@ -1,28 +1,28 @@
 {
-  "name": "nodejs",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/SaquibAsghar/NodeJs.git"
-  },
-  "keywords": [
-    "NodeJs",
-    "NodeJs",
-    "Practice"
-  ],
-  "author": "Syed Saquib Asghar",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/SaquibAsghar/NodeJs/issues"
-  },
-  "homepage": "https://github.com/SaquibAsghar/NodeJs#readme",
-  "dependencies": {
-    "chalk": "^4.1.1",
-    "inquirer": "^8.1.1"
-  }
+	"name": "nodejs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/SaquibAsghar/NodeJs.git"
+	},
+	"keywords": [
+		"NodeJs",
+		"NodeJs",
+		"Practice"
+	],
+	"author": "Syed Saquib Asghar",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/SaquibAsghar/NodeJs/issues"
+	},
+	"homepage": "https://github.com/SaquibAsghar/NodeJs#readme",
+	"dependencies": {
+		"chalk": "^4.1.1",
+		"inquirer": "^8.1.1"
+	}
 }
